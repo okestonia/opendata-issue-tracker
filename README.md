@@ -8,7 +8,7 @@ You can create your issues or comment on existing ones at:
 
 We plan to use this information to promote opening up datasets and leverage in negotiation with holders of the information.
 
-# Backround of the initiative
+## Background of the initiative
 
 Estonian government agencies and local municipalities make datasets available in an open format – these are published in the government repository. https://opendata.riik.ee/et/data/search
 
