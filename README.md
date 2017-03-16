@@ -1,4 +1,4 @@
-# Open Data issue trakcer
+# Open Data issue tracker
 
 This is the community effort to gather information about data sources and discuss their usability from Open Data perspective.
 
