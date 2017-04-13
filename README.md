@@ -4,11 +4,11 @@ This is the community effort to gather information about data sources and discus
 
 You can create your issues or comment on existing ones at:
 
-* https://github.com/okestonia/Estonian-Open-Data-Issue-Tracker/issues
+* https://github.com/okestonia/opendata-issue-tracker/issues
 
 We plan to use this information to promote opening up datasets and leverage in negotiation with holders of the information. You can monitor our progress here: 
 
-* https://github.com/okestonia/Estonian-Open-Data-Issue-Tracker/projects/1
+* https://github.com/okestonia/opendata-issue-tracker/projects/1
 
 ## Background of the initiative
 
