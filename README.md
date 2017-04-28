@@ -25,7 +25,7 @@ http://www.looveesti.ee/loov-eesti/koostooprojektid/creative-entrepreneurship-ac
 ### Challenge: improve urban mobility!
 https://github.com/okestonia/opendata-issue-tracker/issues/72
 
-We are waiting: city activists, mobility experts interested in improving urban space, infrastructure geeks, archidects designing common space!
+**We are waiting: city activists, mobility experts interested in improving urban space, infrastructure geeks, archidects designing common space!
 
 This challenge is focusing on using data to create effective and sustainable mobility models. How to make smooth trips and interchanges for commuting between urban and suburban areas? What innovations are most needed to provide cost-effective, need-based and sustainable modes of transport? How can we provide more accessible public transport for people with special needs? What kind of innovative and sustainable transport solutions could be offered to statisfy the mobility demand of people living in suburban and rural areas?
 
