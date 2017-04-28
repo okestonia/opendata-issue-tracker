@@ -23,6 +23,7 @@ http://www.looveesti.ee/loov-eesti/koostooprojektid/creative-entrepreneurship-ac
 - All the teams participating on Garage48 Open Data & Big Data 2017 are also invited to CEA's Bootcamp happening on 22/04/17 in Tallinn, Estonia http://cea.ee/program/day-4
 
 ### Challenge: improve urban mobility!
+https://github.com/okestonia/opendata-issue-tracker/issues/72
 
 We are waiting: city activists, mobility experts interested in improving urban space, infrastructure geeks, archidects designing common space!
 
