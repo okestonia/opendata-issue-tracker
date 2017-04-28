@@ -11,7 +11,9 @@ We plan to use this information to promote opening up datasets and leverage in n
 * https://github.com/okestonia/opendata-issue-tracker/projects/1
 
 ## Garage48 Baltic Open & Big Data 2017 hachaton
+
 General info http://garage48.org/events/balticopenbigdata2017
+
 Facebook event https://www.facebook.com/events/1262596010513877/
 
 ### eGovernance Open Data Track
