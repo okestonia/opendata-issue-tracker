@@ -35,6 +35,8 @@ This challenge is focusing on using data to create effective and sustainable mob
 Challenge is supported by Ministry of Economic Affairs and Communications and Tallinn Region Sustainable Urban Mobility strategic planning process.
 
 ### Challenge: personal data and open data relations - mydata2017
+https://github.com/okestonia/opendata-issue-tracker/issues/73
+
 http://mydata2017.org/
 More info to come!
 
