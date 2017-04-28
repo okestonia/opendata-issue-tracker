@@ -10,6 +10,30 @@ We plan to use this information to promote opening up datasets and leverage in n
 
 * https://github.com/okestonia/opendata-issue-tracker/projects/1
 
+## Garage48 Baltic Open & Big Data 2017 hachaton
+http://garage48.org/events/balticopenbigdata2017
+
+### eGovernance Open Data Track
+Creative Entrepeneurship Academy is proud to present Open Government Data track: bringing in data geeks from the community and public sector enthusiasts who have a common goal of innovating governance and public services. Smart city tagword  means better access to decisions, planning process, mobility, and  other smarter solutions, co-created with  local community. Tallinn, Tartu, Helsinki -  pick the city, use the data and get creative! Track is organized in co-operation with Open Knowledge Estonia,  Loov Eesti, Norden  and E-governance Academy, within Creative Entrepeneurship Academy program.
+
+Prizes for the winners of this track
+- the winner of this track get's to present their idea on Latitude59 Early Stage Investor Pitch Competition
+- Both the first and the second place teams get a chance to compete among other finalists on the final of CBC eChallange competition (fall 2017)
+http://www.looveesti.ee/loov-eesti/koostooprojektid/creative-entrepreneurship-academy-egovernance-challenge/
+- All the teams participating on Garage48 Open Data & Big Data 2017 are also invited to CEA's Bootcamp happening on 22/04/17 in Tallinn, Estonia http://cea.ee/program/day-4
+
+### Challenge: improve urban mobility!
+
+We are waiting: city activists, mobility experts interested in improving urban space, infrastructure geeks, archidects designing common space!
+
+This challenge is focusing on using data to create effective and sustainable mobility models. How to make smooth trips and interchanges for commuting between urban and suburban areas? What innovations are most needed to provide cost-effective, need-based and sustainable modes of transport? How can we provide more accessible public transport for people with special needs? What kind of innovative and sustainable transport solutions could be offered to statisfy the mobility demand of people living in suburban and rural areas?
+
+Challenge is supported by Ministry of Economic Affairs and Communications and Tallinn Region Sustainable Urban Mobility strategic planning process.
+
+### Challenge: personal data and open data relations - mydata2017
+http://mydata2017.org/
+More info to come!
+
 ## Background of the initiative
 
 Estonian government agencies and local municipalities make datasets available in an open format – these are published in the government repository. https://opendata.riik.ee/et/data/search
