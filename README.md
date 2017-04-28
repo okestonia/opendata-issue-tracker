@@ -11,7 +11,8 @@ We plan to use this information to promote opening up datasets and leverage in n
 * https://github.com/okestonia/opendata-issue-tracker/projects/1
 
 ## Garage48 Baltic Open & Big Data 2017 hachaton
-http://garage48.org/events/balticopenbigdata2017
+General info http://garage48.org/events/balticopenbigdata2017
+Facebook event https://www.facebook.com/events/1262596010513877/
 
 ### eGovernance Open Data Track
 Creative Entrepeneurship Academy is proud to present Open Government Data track: bringing in data geeks from the community and public sector enthusiasts who have a common goal of innovating governance and public services. Smart city tagword  means better access to decisions, planning process, mobility, and  other smarter solutions, co-created with  local community. Tallinn, Tartu, Helsinki -  pick the city, use the data and get creative! Track is organized in co-operation with Open Knowledge Estonia,  Loov Eesti, Norden  and E-governance Academy, within Creative Entrepeneurship Academy program.
