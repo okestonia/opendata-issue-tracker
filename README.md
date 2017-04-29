@@ -10,13 +10,16 @@ We plan to use this information to promote opening up datasets and leverage in n
 
 * https://github.com/okestonia/opendata-issue-tracker/projects/1
 
-## Garage48 Baltic Open & Big Data 2017 hachaton
+You can find our endorsed projects related to issue tracker below.
+
+## Garage48 Baltic Open & Big Data 2017 hackathon
 
 General info http://garage48.org/events/balticopenbigdata2017
 
 Facebook event https://www.facebook.com/events/1262596010513877/
 
 ### eGovernance Open Data Track
+
 Creative Entrepeneurship Academy is proud to present Open Government Data track: bringing in data geeks from the community and public sector enthusiasts who have a common goal of innovating governance and public services. Smart city tagword  means better access to decisions, planning process, mobility, and  other smarter solutions, co-created with  local community. Tallinn, Tartu, Helsinki -  pick the city, use the data and get creative! Track is organized in co-operation with Open Knowledge Estonia,  Loov Eesti, Norden  and E-governance Academy, within Creative Entrepeneurship Academy program.
 
 Prizes for the winners of this track
@@ -48,4 +51,4 @@ In Estonian-Open-Data-Issue-Tracker repository, Open Knowledge Estonia is indepe
 
 We believe that persons and organizations who use the data are in a strong position to advocate for more and higher quality open data. We have used Global Open Data Index as a model but we are adding categories that are not covered in Open Data Index. http://global.survey.okfn.org/
 
-The Global Open Data Index tracks whether this data is actually released in a way that is accessible to citizens, media and civil society. OK-EE wants to give a crowd-sourced input to the global survey of open data releases. Contributions are welcome!
+The Global Open Data Index tracks whether this data is actually released in a way that is accessible to citizens, media and civil society. OK-EE wants to give a crowdsourced input to the global survey of open data releases. Contributions are welcome!
