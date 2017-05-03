@@ -43,6 +43,11 @@ https://github.com/okestonia/opendata-issue-tracker/issues/73
 http://mydata2017.org/
 More info to come!
 
+### Challenge: Estonian Data Protection Inspectorate - How to ensure that privacy is protected?
+https://github.com/okestonia/opendata-issue-tracker/issues/74
+
+All Estonian government agencies must publish their document registries and they usually do. Occasionally, however, the published documents and metadata by mistake contain sensitive personal information that should not be published. This is a major obstacle in making document registries machine readable en masse. The challenge, should you accept it, is to figure out ways to trawl common document registry solutions deployed in Estonian public institutions detecting possible privacy violations. Good luck!
+
 ## Background of the initiative
 
 Estonian government agencies and local municipalities make datasets available in an open format – these are published in the government repository. https://opendata.riik.ee/et/data/search
