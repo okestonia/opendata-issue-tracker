@@ -37,16 +37,39 @@ This challenge is focusing on using data to create effective and sustainable mob
 
 Challenge is supported by Ministry of Economic Affairs and Communications and Tallinn Region Sustainable Urban Mobility strategic planning process.
 
-### Challenge: personal data and open data relations - mydata2017
+### Challenge: Make personal data handling more understandable!
 https://github.com/okestonia/opendata-issue-tracker/issues/73
 
-http://mydata2017.org/
-More info to come!
+keywords: personal data, awareness, knowledge, easily understandable infrastructure, regular people, transparency
+
+Did you again agree to the terms & conditions without reading? Do you feel like somebody else is benefitting from your data? This challenge focuses on making personal data usage more transparent and understandable to average person. Let’s help end-users understand better, how their personal data is used! Let’s make it possible to give a more informed consent to the nice services we’re using! Let’s help service providers establish a more trusted relationship with the users with transparent data usage applications!
+
+Award: 3-day passes for the MyData2017 conference for the full winning team
+
+Challenge is supported by MyData2017 conference team & partners
 
 ### Challenge: Estonian Data Protection Inspectorate - How to ensure that privacy is protected?
 https://github.com/okestonia/opendata-issue-tracker/issues/74
 
 All Estonian government agencies must publish their document registries and they usually do. Occasionally, however, the published documents and metadata by mistake contain sensitive personal information that should not be published. This is a major obstacle in making document registries machine readable en masse. The challenge, should you accept it, is to figure out ways to trawl common document registry solutions deployed in Estonian public institutions detecting possible privacy violations. Good luck!
+
+### Challenge: Tele2 invites you to try your hand at Location-Based Analysis!
+https://github.com/okestonia/opendata-issue-tracker/issues/78
+
+Tele2 will supply hackathon participants with anonymized VLR (Visitor Location Register) data. This data describes cell switches within a 12-month period in Tele2’s 2G and 3G network – when a device connects to a Tele2 network station. By combining this data with a map of the locations of Tele2 stations, it is possible to put together approximate location-based analysis (LBA).
+
+The data provided is obscured to protect the privacy of our customers, yet this is an exclusive chance to use a mobile operator’s data to build services on location-based data. Maybe you’d like to build an app that suggests kindergartens or schools to parents with a specific route, so they can save time on commuting? Or try your hand at traffic analysis to optimize road planning? Combining the VLR data with other data available at the event and open data available online is bound to yield interesting results.
+
+The amount of data is large and will be accessible to participants through a Hadoop framework. More details will be revealed prior to the event.
+
+### Challenge: data-driven solutions using the vast amounts of media industry data
+https://github.com/okestonia/opendata-issue-tracker/issues/79
+
+Ekspress Media is the leading media group, whose activities include online media content production and publishing newspapers and magazines. This means collecting vast amounts of data. For the hackathon you can access all their published articles + you can analyse, systemise, categorise this data with the http://www.texta.ee/ tool.
+
+Data-driven solutions, telling stories with data, dealing with messy data, engaging audiences - the challenge is what you create it to be.
+
+Ekspress Media will give out a special prize and follow-up support to the solution they pick to be the best.
 
 ## Background of the initiative
 
