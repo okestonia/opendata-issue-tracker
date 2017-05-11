@@ -71,6 +71,36 @@ Data-driven solutions, telling stories with data, dealing with messy data, engag
 
 Ekspress Media will give out a special prize and follow-up support to the solution they pick to be the best.
 
+### Challenge: Value added solutions for merchants or payment card users
+https://github.com/okestonia/opendata-issue-tracker/issues/80
+
+SEB makes available representative dataset of card payment transactions with merchant category and approximate location information. Such data give insights for example to customer payment behavior as well as merchant category business volumes in the region. For privacy reasoning the customer as well as merchant information is anonymized.
+We invite to propose value added solutions to merchants and/or to card users.
+
+### Challenge: Credit Info
+https://github.com/okestonia/opendata-issue-tracker/issues/81
+
+Creditinfo Estonia is leading service provider for credit information and risk management solutions in Estonia. Our aim is to decrease financial risks of companies and private persons. Creditinfo Eesti is giving UNIQUE perspective to use for FREE exclusively 10 000 companies’ open data:
+
+Company number
+Registry code
+Acitivites based on EMTAK
+Address
+Members of Board
+Owners
+Subsidiaries
+Net sales based on EMTAK
+Profit/loss
+Assets
+Equity
+Number of Employees based on quater
+Paymnet defaults
+Tax debts
+
+We are giving you FREE hands for creating soultion or service to make consumer’s life easier. The IDEAL solution includes visualization, data analytics or any simplistic service activity. Also the solution/service should be linked with Creditinfo’s open data.
+
+The criterias of selecting the winner: who’s solution is helping to save consumer’s time and money mostly. The best team wins 1000€ and beer! So bring on your crazy ideas and just create it.
+
 ## Background of the initiative
 
 Estonian government agencies and local municipalities make datasets available in an open format – these are published in the government repository. https://opendata.riik.ee/et/data/search
