@@ -1,6 +1,6 @@
 ---
-name: Rakenduse lisamise soov / Adding an application
-about: Rakenduse lisamise soov / Adding an application
+name: Rakenduse lisamine / Add an application
+about: Rakenduse lisamine soov / Add an application
 title: ''
 labels: ''
 assignees: ''
